@@ -36,6 +36,17 @@ The goal is to identify **key drivers of churn** and provide **business-relevant
 
 ---
 
+## 🚀 Impact
+The analysis highlights where targeted retention strategies can make the most difference:
+
+- **Age Factor:** Customers aged 50–59 churn at **56%**, nearly **36 percentage** points above the baseline (**20.37%**). Reducing churn in this segment could significantly improve retention.
+
+- **Geography:** German customers (**2,509 total**) churn at 32%, compared to the baseline 20.37%. This translates to **~292** avoidable customer losses, or a potential **3%** reduction in overall churn if addressed.
+
+- **Engagement:** Inactive members churn at 27%, indicating that improving **customer engagement initiatives** could cut churn by several percentage points.
+
+---
+
 ## 📊 Dashboards
 - Single-feature churn rates (**age, geography, balance, products, activity, etc.**).  
 - Cross-feature analysis (**Age × Geography, Age × Balance, Balance × Activity**).  
