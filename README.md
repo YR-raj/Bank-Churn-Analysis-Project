@@ -3,7 +3,7 @@
 ## Dashboard Preview  
 
 ### Sheet 1  
-![Sheet 1](Dashboard/Dashboard%20Images/Sheet-1.pngg)  
+![Sheet 1](Dashboard/Dashboard%20Images/Sheet-1.png)  
 
 ### Sheet 2  
 ![Sheet 2](Dashboard/Dashboard%20Images/Sheet_2.png) 
