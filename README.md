@@ -27,7 +27,7 @@ The goal is to identify **key drivers of churn** and provide **business-relevant
 ---
 
 ## 🔑 Key Insights
-- **Age is critical** → Customers aged **50+ churn significantly more** (up to **56%**).  
+- **Age is critical** → Customers aged **50+** churn significantly more (up to **56%**).  
 - **Geography effect** → German customers churn at **~32%**, the highest among regions.  
 - **Balance impact** → Medium-to-high balances (**100k+**) strongly correlate with churn.  
 - **Membership engagement** → Inactive members churn **~27%**, more than active ones.  
