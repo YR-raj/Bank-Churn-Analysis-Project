@@ -1,5 +1,13 @@
 # 🏦 Customer Churn Analysis (SQL + Power BI)
 
+## Dashboard Preview  
+
+### Sheet 1  
+![Sheet 1](Dashboard/Dashboard%20Images/Sheet-1.pngg)  
+
+### Sheet 2  
+![Sheet 2](Dashboard/Dashboard%20Images/Sheet_2.png) 
+
 ## 📌 Project Overview
 This project analyzes **customer churn for a retail bank** using **SQL** for feature engineering and exploratory analysis, and **Power BI** for dashboarding.  
 The goal is to identify **key drivers of churn** and provide **business-relevant insights** for retention strategy.
